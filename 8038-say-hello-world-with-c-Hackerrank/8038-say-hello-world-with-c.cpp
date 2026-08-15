@@ -1,13 +1,9 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
-
-
-int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+int main() 
+{
+    ios::sync_with_stdio(false);
+    cin.tie(0);
     cout<<"Hello, World!";
     return 0;
 }
